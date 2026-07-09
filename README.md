@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on the dev team at Clemson University's HATlab. There I'm supporting NSF SaTC 2.0 research (Award #2521037) on usable secure authentication
+Im currently working on the dev team at Clemson University's HATlab. There I'm supporting NSF SaTC 2.0 research<br> (Award #2521037) on usable secure authentication
 
 
 ## 🌐 Socials:
