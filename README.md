@@ -7,10 +7,10 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-asous/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:islam.asous1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-asous.vercel.app/)
 
 ## 🚀 Featured Projects:
-**[Palimpsest](https://github.com/I-Asous)** — Collaborative note-taking app with a block-based editor. Full-stack monorepo with a React/TypeScript frontend and RESTful API integrating PostgreSQL for CRUD on pages and blocks.
+**Palimpsest** — Collaborative note-taking app with a block-based editor. Full-stack monorepo with a React/TypeScript frontend and RESTful API integrating PostgreSQL for CRUD on pages and blocks.
 `React` `TypeScript` `Node.js` `PostgreSQL` `Elasticsearch`
 
 **For the Culture** — Multilingual platform connecting NYC immigrant communities to food, health, and transit resources across all 5 boroughs in 8 languages. Led UI/UX in Figma and owned the React/Vite frontend, including an interactive map built on live NYC Open Data.
