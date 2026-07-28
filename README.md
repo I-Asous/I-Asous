@@ -11,10 +11,10 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 
 ## 🚀 Featured Projects:
 **RAG From Scratch** — A minimal Retrieval-Augmented Generation pipeline built from first principles, no LangChain, no vector DB library, no framework. Embeds and retrieves facts via cosine similarity and streams answers through a local LLM, all served through Ollama.
-'Python3' 'Ollama' 'RAG' 'Embeddings' 'LLM'
+`Python3` `Ollama` `RAG` `Embeddings` `LLM`
 
 **Portfolio** — Personal site with a dynamic OG image generator and SEO-optimized architecture (sitemap, robots, JSON-LD). Built with the Next.js App Router, deployed on Vercel with CI via GitHub Actions.
-'Next.js' 'React' 'TypeScript' 'Tailwind' 'CSS' 'Vercel'
+`Next.js` `React` `TypeScript` `Tailwind` `CSS` `Vercel`
 
 **For the Culture** — Multilingual platform connecting NYC immigrant communities to food, health, and transit resources across all 5 boroughs in 8 languages. Led UI/UX in Figma and owned the React/Vite frontend, including an interactive map built on live NYC Open Data.
 `React` `Vite` `Express.js` `Figma` `Firebase`
