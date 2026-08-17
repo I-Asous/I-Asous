@@ -4,6 +4,7 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 - 🧪 Undergraduate Researcher at Hunter's Visualization and Virtual Reality Lab, focused on NLP
 - 📊 Data Science Fellow with CUNY Tech Prep (1 of 200 selected)
 - 🍎 Undergraduate Teaching Assistant for Computer Theory, Computer Architecture, and OOP/DSA (600+ students supported)
+  -Teaching Assistant for: CSCI 135, 235, 260, & 265 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-asous/)
