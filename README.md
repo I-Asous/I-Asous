@@ -4,9 +4,9 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 - 🧪 Undergraduate Researcher at Hunter's Visualization and Virtual Reality Lab, focused on NLP
 - 📊 Data Science Fellow with CUNY Tech Prep (1 of 200 selected)
 - 🍎 Undergraduate Teaching Assistant (600+ students supported):
-  - CSCI 135 — Intro to Computer Science I (OOP)
-  - CSCI 235 — Data Structures & Algorithms
-  - CSCI 260 — Computer Architecture
+  - CSCI 135 & 235 — Software Analysis & Design I/II (Object-Oriented Programming and Data Structures & Algorithms)
+  - CSCI 160 - Computer Architecture I
+  - CSCI 260 — Computer Architecture II
   - CSCI 265 — Computer Theory
 
 ## 🌐 Socials:
