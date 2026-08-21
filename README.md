@@ -1,5 +1,6 @@
 # 🌸 About Me:
 I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math. Currently:
+- 💻 Project Management Small Scale Application Development intern @ NYC Dept of Transportation
 - 🔬 Software Engineer (REU) on **Project Sisyphus** at Clemson University — supporting NSF SaTC 2.0 research (Award #2521037) on usable secure authentication
 - 🧪 Undergraduate Researcher at Hunter's Visualization and Virtual Reality Lab, focused on NLP
 - 📊 Data Science Fellow with CUNY Tech Prep (1 of 200 selected)
