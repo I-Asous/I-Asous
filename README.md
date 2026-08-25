@@ -12,7 +12,7 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-asous/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](islamasous.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://islamasous.dev)
 
 ## ☾ Featured Projects:
 
