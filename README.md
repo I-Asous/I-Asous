@@ -22,9 +22,6 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 **AI Agent From Scratch** — A tool-calling research agent built with LangChain and the Claude API that autonomously decides whether to invoke a live web-search tool or answer directly. Structured outputs are parsed and validated through a Pydantic schema, with iterated system instructions to keep responses reliable across both tool-invoking and direct-answer paths.
 `Python3` `LangChain` `Claude API` `Pydantic`
 
-**RAG From Scratch** — A minimal Retrieval-Augmented Generation pipeline built from first principles, no LangChain, no vector DB library, no framework. Embeds and retrieves facts via cosine similarity and streams answers through a local LLM, all served through Ollama.
-`Python3` `Ollama` `RAG` `Embeddings` `LLM`
-
 **Portfolio** — Personal site with a dynamic OG image generator and SEO-optimized architecture (sitemap, robots, JSON-LD). Built with the Next.js App Router, deployed on Vercel with CI via GitHub Actions.
 `Next.js` `React` `TypeScript` `Tailwind` `CSS` `Vercel`
 
