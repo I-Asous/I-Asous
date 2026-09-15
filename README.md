@@ -16,6 +16,9 @@ I'm a CS student at Hunter College (CUNY), graduating Dec 2026, minoring in Math
 
 ## ☾ Featured Projects:
 
+**Token Watching** — A browser extension that analyzes prompts in real time using a 3-agent LLM pipeline, flagging token waste and returning cost-optimized rewrites before you hit enter. Built a custom async orchestrator from scratch (no LangGraph/CrewAI) to sequence agent execution and stream live status updates, with a tiered rule-based-first/LLM-escalation design to keep the tool's own analysis cost-conscious.
+`Python` `FastAPI` `Claude API` `Chrome Extension` `WebSockets`
+
 **AI Agent From Scratch** — A tool-calling research agent built with LangChain and the Claude API that autonomously decides whether to invoke a live web-search tool or answer directly. Structured outputs are parsed and validated through a Pydantic schema, with iterated system instructions to keep responses reliable across both tool-invoking and direct-answer paths.
 `Python3` `LangChain` `Claude API` `Pydantic`
 
